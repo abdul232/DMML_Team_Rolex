@@ -20,21 +20,51 @@ To build our dataset, we will gather the results of the England Premiere League 
 Ranking dataset was created manually by using several websites as [Google](https://www.google.com) & [Wikipedia](https://www.wikipedia.org)
 
 ## The Variables
-All the variables are linked to the matche: 
-* Match's ID
-* Match's date time
-* Home team
-* Away team
-* Final number of goals
-* Match result (Home Team win, Away Team win or Draw Match)
-* Team's ranking of the previous Football season (static rank at the end of the past season)
-* Referee for the match
-* Number of shots
-* Number of fouls
+The following are the variables concerning the match:
 
-And the other variables are not directly linked to the match statistics.
-These other variables are the
-* Odds set before the match by different betting websites. These odds are set on the final result of a match (Home Team win, Away Team win, Draw Match).
+* Match_ID                             
+* Date                        
+* HomeTeam                             
+* AwayTeam                             
+* Home ex-Rank                          
+* Home Team Goals                      
+* Away ex-Rank                         
+* Away Team Goals                       
+* Referee                             
+* Home Team Shots                       
+* Away Team Shots                      
+* Home Team Shots on Target             
+* Away Team Shots on Target            
+* Home Fouls Committed                 
+* Away Fouls Committed                  
+* Home Corners                          
+* Away Corners                         
+* Home Yellow Cards                     
+* Away Yellow Cards                     
+* Home Red Cards                        
+* Away Red Cards                                           
+* Match Result_A                        
+* Match Result_D                       
+* Match Result_H                        
+
+
+And these other variables are produced by different betting websites: Odds, set before the match.
+
+* B365 Home                          
+* B365 Draw                          
+* B365 Away                           
+* Bet&Win Home                        
+* Bet&Win Draw                        
+* Bet&Win Away                        
+* Interwetten Home                    
+* Interwetten Draw                   
+* Interwetten Away                   
+* William Hill Home                   
+* William Hill Draw                   
+* William Hill Away                  
+* VC Bet Home                         
+* VC Bet Draw                         
+* VC Bet Away 
 
 ## Methodology
 * Upload, clean and add the necessary variables to complete the Dataset
