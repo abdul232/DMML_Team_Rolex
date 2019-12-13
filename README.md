@@ -11,8 +11,22 @@ To build our dataset, we will gather the results of the England Premiere League 
 Some features to this dataset, taken from this website:
 
 ## The Variables
-All the variables are linked to the matche: **match's ID**, the match's **date time**, the **Home team**, the **Away team**, the **final number of goals**, the **match result** (Home Team win, Away Team win or Draw Match), the **team's ranking** of the previous Football season (static rank at the end of the past season), the **referee** for the match, the **number of shots**, the **number of fouls**, and the other variables are not directly linked to the match statistics. These other variables are the **odds set before the match** by different betting websites. These odds are set on the **final result** of a match (Home Team win, Away Team win, Draw Match).
+All the variables are linked to the matche: 
+* match's ID
+* Match's date time
+* Home team
+* Away team
+* Final number of goals
+* Match result (Home Team win, Away Team win or Draw Match)
+* Team's ranking of the previous Football season (static rank at the end of the past season)
+* Referee for the match
+* Number of shots
+* Number of fouls
+
+And the other variables are not directly linked to the match statistics.
+These other variables are the
+* Odds set before the match by different betting websites. These odds are set on the final result of a match (Home Team win, Away Team win, Draw Match).
 
 ## Execution
-In order to execute the project, you should download the principal Notebooke [Notebook_Rolex.ipynb](https://github.com/abdul232/DMML_Team_Rolex/blob/master/code/Notebook_Rolex.ipynb), withe the [dataset](https://raw.githubusercontent.com/abdul232/DMML_Team_Rolex/master/data/England_2008_2018_Premiere_League_Final.csv).
+In order to execute the project, you should download the principal Notebooke [Notebook_Rolex.ipynb](https://github.com/abdul232/DMML_Team_Rolex/blob/master/code/Notebook_Rolex.ipynb), withe the [Dataset](https://raw.githubusercontent.com/abdul232/DMML_Team_Rolex/master/data/England_2008_2018_Premiere_League_Final.csv).
 And run it using Jupyter Notebook app Anaconda, or online by using [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) or [Azure Notebooks](https://notebooks.azure.com)
