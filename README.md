@@ -1,8 +1,18 @@
 # DMML_Team_Rolex
 
-You do not know anything about sports betting or you want to implement a new strategy? This project will help you understand this world, and also provide you a betting strategy that you will be able to apply on your own.
+Project repo of Data Mining and Machine Learning
+
+Master: Information Systems - HEC Lausanne - 2019
+
+## The Team
+* Abdul Rahman Aloraib Alsalim
+* Alexandre Lang
+* Alix Muller
+* Joël Kuflom
 
 ## The Project
+You do not know anything about sports betting or you want to implement a new strategy? This project will help you understand this world, and also provide you a betting strategy that you will be able to apply on your own.
+
 The goal of this project is to establish a betting strategy for **England Premiere League** match results.
 
 ## The Dataset
